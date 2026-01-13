@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Aspiring+Full-Stack+Developer;Building+cool+shit+since+2023;Coffee+%26+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Aspiring+Full-Stack+Developer;Learning.+Coding.+Growing;Coffee+%26+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,6 +17,22 @@
 </p>
 
 <br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/vicky-sah-707954350" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,figma,postman,vscode,python,c,cpp,pandas" alt="skills"/>
+</div>
+
+<br/>
+
+
+
+
 
 ## 🚀 About Me
 

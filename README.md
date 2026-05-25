@@ -12,26 +12,31 @@
 
 <p align="center">
   <a href="https://github.com/vicks321?tab=repositories"><img src="https://komarev.com/ghpvc/?username=vicks321&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=starship" alt="profile views"/></a>
-  <a href="https://vickykumarsah.com.np" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/vicky-sah-707954350" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://vickykumarsah.com.np"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:vickysah776@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 <br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/vicky-sah-707954350" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
+<br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,figma,postman,vscode,python,c,cpp,pandas" alt="skills"/>
 </div>
 
 <br/>
 
-<!-- Algora Open Source Bounty Card -->
 <div align="center">
   <a href="https://algora.io/vicks321" target="_blank">
-    <img src="https://algora.io/og/user/vicks321" width="520" alt="Vicky's Algora Profile" />
+    <img src="https://algora.io/og/user/vicks321" width="600" alt="Algora Contributions" />
   </a>
 </div>
 
+<br/>
 <br/>
 
 ## 🚀 About Me
